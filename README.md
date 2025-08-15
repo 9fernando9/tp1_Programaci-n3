@@ -1,5 +1,5 @@
-# tp1_Programaci-n3
-Trabajo practico N°3
+# tp1_Programacion3
+Trabajo practico 1
 Integrantes:
  * Flores Alejandro
  * Gomez Luis Fernando
